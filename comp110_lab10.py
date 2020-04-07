@@ -1,7 +1,7 @@
 """
-Module: comp110_lab08
+Module: comp110_lab10
 
-Starter code for COMP110 Lab 08.
+Starter code for COMP110 Lab 10.
 """
 
 import matplotlib.pyplot as pp
@@ -18,6 +18,9 @@ def get_grade_frequencies(filename):
 
 def test_get_grade_frequencies():
     actual = get_grade_frequencies("students.txt")
+
+    # To Do: update the next line so it is a dictionary with the correct,
+    # expected values.
     expected = {}
 
     if actual == expected:
@@ -27,7 +30,6 @@ def test_get_grade_frequencies():
         print("Expected:", expected)
         print("Actual:", actual)
 
-        
 
 def main():
     """
