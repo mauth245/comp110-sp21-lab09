@@ -1,7 +1,7 @@
 """
-Module: comp110_lab10
+Module: comp110_lab09
 
-Starter code for COMP110 Lab 10.
+Starter code for COMP110 Lab 09.
 """
 
 import matplotlib.pyplot as pp
@@ -13,7 +13,7 @@ def get_grade_frequencies(filename):
     that grade for the midterm exam #1.
     """
 
-    return None  # placeholder. Remove this line when you are done.
+    pass  # placeholder. Remove this line when you are done.
 
 
 def test_get_grade_frequencies():
