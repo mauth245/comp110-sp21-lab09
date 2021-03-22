@@ -36,12 +36,13 @@ def main():
     Creates a bar chart showing grade distribution on midterm exam #1.
     """
 
-    # To Do: Call your function to get the frequency data from students.txt
+    # To Do: Step 1: Call your function to get the frequency data from
+    # students.txt
 
-    # To Do: Call pyplot's bar function to create the bar chart
+    # To Do: Step 2: Call pyplot's bar function to create the bar chart
 
-    # To Do: Update the labels for the x and y axis as well as the title of the
-    # chart.
+    # To Do: Step 3: Update the labels for the x and y axis as well as the
+    # title of the chart.
     pp.xlabel("FIXME")
     pp.ylabel("FIXME")
     pp.title("FIXME")
